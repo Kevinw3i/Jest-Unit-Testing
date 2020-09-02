@@ -5,6 +5,9 @@ tags: js, unit test
 
 # 那些關於單元測試的事
 
+[![hackmd-github-sync-badge](https://hackmd.io/g1EEpmYBRbWYoqJhalOBfw/badge)](https://hackmd.io/g1EEpmYBRbWYoqJhalOBfw)
+
+
 ## 單元測試
 單元測試（Unit Testing）又稱模組測試，針對程式模組（軟體設計的最小單位）來進行正確性檢驗的測試工作，程式單元是應用的最小可測試部件。
 
